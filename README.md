@@ -21,5 +21,5 @@ node index.js
 
 ## Sample ScreenShots.
 
-![ss](https://github.com/naman-verma-01/tesseract.js-testing-demo/blob/master/Annotation 2023-04-03 151656.png?raw=true)
+![ss](https://github.com/naman-verma-01/tesseract.js-testing-demo/blob/master/Annotation_2023-04-03_151656.png)
 
