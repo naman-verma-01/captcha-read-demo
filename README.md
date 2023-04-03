@@ -17,7 +17,12 @@ Execute the following command in terminal to run the script.
 ```bash
 node index.js
 ```
-
+## DEMO 
+```bash
+D:\AegisCovenant Assignment\test>node index.js
+Enter the Image Public URL -https://i.ibb.co/jTKYQqP/Captcha-United.png
+EXTRACTED TEXT ==> chvecnm
+```
 
 ## Sample ScreenShots.
 
