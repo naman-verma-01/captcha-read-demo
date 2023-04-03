@@ -16,7 +16,7 @@ npm i
 Execute the following command in terminal to run the script.
 ```bash
 node index.js
-...
+```
 
 
 ## Sample ScreenShots.
